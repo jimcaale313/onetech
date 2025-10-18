@@ -7,7 +7,7 @@ const services = [
     category: 'Technology Solutions',
     items: [
       { name: 'Computers & Laptops', icon: Laptop },
-      { name: 'Networking & IT', icon: Network },
+     
       { name: 'Printers & Scanners', icon: Printer },
       { name: 'Technical Support', icon: Wrench },
     ],
